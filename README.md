@@ -1,7 +1,7 @@
 ### Hi, I'm Jitesh K Prasad
 
 I build an independent AI research lab, Udgam Labs, and I invest. I started in
-physics, moved into finance, and now work where the two meet technology.
+physics, moved into finance, and now work where the two meet, technology.
 
 On this account I share open projects that others can learn from and build on.
 
